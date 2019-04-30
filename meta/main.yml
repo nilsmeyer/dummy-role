@@ -1,0 +1,18 @@
+---
+galaxy_info:
+  author: Nils Meyer
+  description: Dummy role, just puts out debug info
+
+  license: BSD
+
+  min_ansible_version: 2.7
+
+  galaxy_tags: []
+
+  platforms:
+    - name: Ubuntu
+      versions:
+        - bionic
+        - disco
+
+dependencies: []

@@ -1,0 +1,5 @@
+---
+
+- name: perform task
+  debug:
+    msg: "Hello world"
